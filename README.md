@@ -7,3 +7,11 @@ Example of Drupal 8 for creating a custom module and custom menu.
 
 Hello World! is the output.
 
+
+Added a code of custom block as well.
+check the file 
+hello/Plugin/Block/HelloBlock.php
+
+Go to admin/structure/block
+Click on place block of any region, You will get "Hello block" in the list.
+
